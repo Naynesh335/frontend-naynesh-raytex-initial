@@ -1,0 +1,9 @@
+.grandparent {
+    color: red;
+}
+.parent {
+    color: green;
+}
+#child {
+    color: yellow;
+}
