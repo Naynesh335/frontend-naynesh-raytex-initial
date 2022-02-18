@@ -1,0 +1,28 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    background: darkmagenta;
+    width: 100%;
+    position: fixed; 
+    padding: 10px;
+}
+
+
+
+.header-container {
+    text-align: right;
+   
+}
+a {
+    padding: 5px 5px;
+    color: white;
+    text-decoration: none;
+}
+
+.footer {
+    background: darkmagenta;
+    width: 100%;
+}
