@@ -1,15 +1,18 @@
 .parent {
     border: 2px solid black;
-    width: 50%;
+    width: 400px;
     height:500px;
     float: left;
-    text-align: center;
-
 }
 .child {
     background: lightblue;
     border: 2px solid black;
-    width: 50%;
+    width: 400px;
     height:500px;
-    float: right;
+    float: left;
+    text-align: center;
+}
+
+img {
+    padding: 75px 0px 0px 50px; 
 }
