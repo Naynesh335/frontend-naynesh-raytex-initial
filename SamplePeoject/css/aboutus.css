@@ -1,0 +1,39 @@
+.header
+{
+    width: 100%;
+    background: darkmagenta;
+    color: white;
+    position: fixed;
+    top: 0;
+}
+body{
+    margin: 0px;
+}
+
+.header-container {
+    text-align: right;
+   margin: 30px 20px 5px 20px;
+   float: right;
+}
+h1{
+    margin: 100px;
+    text-align: center;
+}
+.main{
+    float: left;
+    margin-left: 30px;
+}
+img {
+    float:left;
+    width: 350px;
+    height: 350px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.temp {
+    text-align: center;
+    margin-top: 100px; 
+}
